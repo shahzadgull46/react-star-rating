@@ -4,7 +4,7 @@ An interactive **Star Rating** application built with **React**, **Vite**, **Tai
 
 ## 🚀 Live Demo
 
-🔗 https://your-vercel-link.vercel.app
+🔗 https://react-star-rating-7euf.vercel.app
 
 ## 📸 Preview
 
